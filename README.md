@@ -6,10 +6,12 @@ Meta C. It's C but more pleasant to work with.
   - Brackets to group things, grouping is done via indentation liike Python.
 
 # To use it to compile say... helloworld in metaC sytax:
-- gcc -o mC mc.c    // Compile metaC to a binary
-- mC helloworld.mc  // Use metaC binary to convert metaC syntax file to regular C syntax
-- gcc test.c        // *test.c* is it's current hardcoded name, still working on it
-- ./a.out           // Run helloworld : )
+```
+gcc -o mC mc.c    // Compile metaC to a binary
+mC helloworld.mc  // Use metaC binary to convert metaC syntax file to regular C syntax
+gcc test.c        // *test.c* is it's current hardcoded name, still working on it
+./a.out           // Run helloworld : )
+```
 
 ```
 # helloworld.mc
@@ -22,8 +24,11 @@ int main():
 
 
 # What needs to be worked on
-- // comments inline of code
-- /**/ comments in line of code
+- // comments with inline of code
+- /**/ comments with inline of code
+- The max number of lines possible
+- Switch statements
+- Moving Global variables to local variables
 
 # Some more Nicities coming later
   -One will not need to prototype functions.

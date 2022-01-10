@@ -11,13 +11,14 @@ Meta C. It's C but more pleasant to work with.
 - gcc test.c        // *test.c* is it's current hardcoded name, still working on it
 - ./a.out           // Run helloworld : )
 
+```
 # helloworld.mc
-- #include <stdio.h>
+#include <stdio.h>
 
-- int main():
--   printf("Hello, World!\n")
--   return 0;
-
+int main():
+  printf("Hello, World!\n")
+  return 0;
+```
 
 
 # What needs to be worked on

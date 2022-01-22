@@ -5,6 +5,10 @@ Meta C. It's C but more pleasant to work with.
   - Terminating the end of lines with semicolons/;.
   - Brackets to group things, grouping is done via indentation liike Python.
 
+!!!This language isn't fully workable!!! I'm taking a break and going over a book. Head First C is a nice book, not good for those who have Zero programming experience.
+
+
+
 # To use it to compile say... helloworld in metaC sytax:
 ```
 gcc -o mC mc.c    // Compile metaC to a binary

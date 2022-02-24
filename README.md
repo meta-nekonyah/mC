@@ -5,7 +5,7 @@ Meta C. It's C but more pleasant to work with.
   - Terminating the end of lines with semicolons/;.
   - Brackets to group things, grouping is done via indentation liike Python.
 
-!!!This language isn't fully workable!!! I'm taking a break and going over a book. Head First C is a nice book, not good for those who have Zero programming experience.
+!!!This language isn't fully workable under all conditions!!! I'm taking a break and going over a book. Head First C is a nice book, not good for those who have Zero programming experience.
 
 
 
